@@ -34,8 +34,18 @@ Our approach includes several key phases:
 ![image](https://github.com/AravindTeja35/Game-On-NCAA/assets/163460197/f1c15d37-8377-464e-9a32-5a55a09a12ce)
 
 - Recommendations: Suggested targeted strategies based on model outcomes to optimize ticket sales.<br />
+
+**Tableau Dashboard**
+
+![image](https://github.com/AravindTeja35/Game-On-NCAA/assets/163460197/0136f83c-a76c-43ec-b749-6b0a12ef6945)
   
+**Kaggle Competition**
+
+Secured 16th rank out of 51 participating teams in Kaggle competition as part of 'Crossroads Classic Analytics Challenge 24' with prediction accuracy of 98.45%.<br />
+Competition link: https://www.kaggle.com/competitions/crossroads-classic-analytics-challenge-24/leaderboard
+
 **Key Findings and Recommendations**
+
 Loyalty Programs: Recommend introducing loyalty programs to incentivize purchases through the primary market.<br />
 Data-Driven Event Management: Utilize predictive insights for event planning, including venue selection and staffing.<br />
 Enhanced Customer Service: Tailor customer service based on the likelihood of customer purchases, as indicated by predictive models.<br />
@@ -43,4 +53,7 @@ Enhanced Customer Service: Tailor customer service based on the likelihood of cu
 ![image](https://github.com/AravindTeja35/Game-On-NCAA/assets/163460197/6a0ac510-7794-40e3-8775-702fcc411337)
 
 **Benefits to NCAA**
+
 Our project offers numerous benefits, including real-time sales tracking, deeper fan insights, community building, and the ability to optimize pricing and promotions. Future developments could introduce an app-based tracker for real-time feedback and enhanced user experience.
+
+ 
