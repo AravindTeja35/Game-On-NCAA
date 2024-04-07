@@ -41,14 +41,14 @@ Our approach includes several key phases:
   
 **Kaggle Competition**
 
-Secured 16th rank out of 51 participating teams in Kaggle competition as part of 'Crossroads Classic Analytics Challenge 24' with prediction accuracy of 98.45%.<br />
+Secured 16th rank out of 51 participating teams in Kaggle competition as part of 'Crossroads Classic Analytics Challenge 24' with prediction accuracy of **98.45%**.<br />
 Competition link: https://www.kaggle.com/competitions/crossroads-classic-analytics-challenge-24/leaderboard
 
 **Key Findings and Recommendations**
 
-Loyalty Programs: Recommend introducing loyalty programs to incentivize purchases through the primary market.<br />
-Data-Driven Event Management: Utilize predictive insights for event planning, including venue selection and staffing.<br />
-Enhanced Customer Service: Tailor customer service based on the likelihood of customer purchases, as indicated by predictive models.<br />
+- Loyalty Programs: Recommend introducing loyalty programs to incentivize purchases through the primary market.<br />
+- Data-Driven Event Management: Utilize predictive insights for event planning, including venue selection and staffing.<br />
+- Enhanced Customer Service: Tailor customer service based on the likelihood of customer purchases, as indicated by predictive models.<br />
 
 ![image](https://github.com/AravindTeja35/Game-On-NCAA/assets/163460197/6a0ac510-7794-40e3-8775-702fcc411337)
 
